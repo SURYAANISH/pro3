@@ -1,0 +1,23 @@
+
+.d {
+    background-color: black;
+    text-align: right;
+    text-decoration: none;
+}
+.d a{
+    color: blanchedalmond;
+}
+.h1 {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100px;
+}
+.p {
+    text-decoration: none;
+}
+.wow{
+    color: red;
+}
+.wow1{
+    color: green;
+}
